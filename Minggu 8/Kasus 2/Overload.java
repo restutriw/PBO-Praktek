@@ -1,6 +1,7 @@
 package minggu.pkg8.kasus.pkg2;
 
-class Overload {
+class Overload 
+{
     void demo(int a){
         System.out.println("a: "+a);
     }
