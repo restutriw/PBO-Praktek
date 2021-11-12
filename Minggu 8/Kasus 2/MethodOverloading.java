@@ -1,7 +1,8 @@
 package minggu.pkg8.kasus.pkg2;
 
 class MethodOverloading {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Overload Obj=new Overload();
         double result;
         Obj.demo(10);
